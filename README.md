@@ -20,7 +20,7 @@ This is a simple To-Do List application built using HTML, CSS, and JavaScript. T
 
 ## How to Use
 1. Clone the repository: `git clone https://github.com/riteshpaarihar/To-do-list-app.git`
-2. Navigate to the project directory: `cd playable-piano`
+2. Navigate to the project directory: `cd To-do-list-app`
 3. Open `index.html` in your web browser.
 
 
